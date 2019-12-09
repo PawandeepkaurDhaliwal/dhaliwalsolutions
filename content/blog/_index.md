@@ -1,8 +1,9 @@
 ---
-title: Blog
+title: Vision
 menu:
   main:
     name: Blog
     weight: 2
 layout: blog
 ---
+
