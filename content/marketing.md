@@ -3,7 +3,7 @@ title: Marketing
 menu:
   main:
     name: Marketing
-    weight: 3
+    weight: 4
 layout: page
 ---
 
