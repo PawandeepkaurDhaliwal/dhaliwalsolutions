@@ -1,9 +1,8 @@
 ---
 title: Strategies
 subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+  The strategy of my company will solve the customer’s problem on the priority
+  basis and provide them reliable services.
 img_path: /images/tech-help_48235965_xxl.jpg
 menu:
   main:
@@ -11,26 +10,25 @@ menu:
     weight: 3
 layout: page
 ---
-<h3>**1. Establish a value proposition:</h3>**
+<h3>\*\*1. Establish a value proposition:</h3>\*\*
 
- _**"Customers feel free from any security threat and also provide reliable and**_
+ **_"Customers feel free from any security threat and also provide reliable and_**
 
-_**flexible products to them”**_
+**_flexible products to them”_**
 
-**<h3>2. Identify  ideal customer.</h3>**
+**<h3>2. Identify  ideal customer**
+
+**3.Focus on strengths</h3>**
 
 ****
 
 # 
 
 ```
-<!-- Some example CSS code -->
-body {
-  color:red;
-}
+
 ```
 
-## Tables
+## 
 
 <table>
     <caption>Table with thead, tfoot, and tbody</caption>
