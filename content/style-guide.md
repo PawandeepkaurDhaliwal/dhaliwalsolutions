@@ -21,11 +21,3 @@ layout: page
 **3.Focus on strengths**
 
 **4.Socially Responsible</h3>**
-
-# 
-
-```
-
-```
-
-##
