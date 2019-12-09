@@ -10,12 +10,14 @@ menu:
     weight: 3
 layout: page
 ---
-<h3>**1. Establish a value proposition:**</h3>
+<h3>1. Establish a value proposition:</h3>
 
- _**"Customers feel free from any security threat and also provide reliable and flexible products to them”**_
+ **_"Customers feel free from any security threat and also provide reliable and flexible products to them”_**
 
 **<h3>2. Identify  ideal customer**
 
 **3.Focus on strengths**
 
-**4.Socially Responsible</h3>**
+**4.Socially Responsible**
+
+**5.Provide training to Students</h3>**
