@@ -7,7 +7,7 @@ subtitle: >-
 menu:
   main:
     name: Risk
-    weight: 6
+    weight: 4
 layout: page
 ---
 1. **Operational risk**: My company can face operational risk because during daily tasks some problems are occur such as system failure, employee errors etc. Due to this, day to day operations are effected and some delayed can possible. Consequently, extend the budget and time period of project.
