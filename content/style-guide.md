@@ -10,7 +10,7 @@ menu:
     weight: 3
 layout: page
 ---
-<h3>1. Establish a value proposition:</h3>
+<h3>**1. Establish a value proposition:**</h3>
 
  _**"Customers feel free from any security threat and also provide reliable and flexible products to them”**_
 
