@@ -18,9 +18,9 @@ layout: page
 
 **<h3>2. Identify  ideal customer**
 
-**3.Focus on strengths</h3>**
+**3.Focus on strengths**
 
-****
+**4.Socially Responsible</h3>**
 
 # 
 
