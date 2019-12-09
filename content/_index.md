@@ -21,7 +21,7 @@ sections:
     type: contentblock
   - actions:
       - label: Vision
-        url: blog/index.html
+        url: /vision
     component: posts_block.html
     num_posts_displayed: 4
     section_id: recent-posts
