@@ -1,5 +1,6 @@
 ---
 title: Vision
+img_path: /images/1.jpg
 menu:
   main:
     name: Vision
