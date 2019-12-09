@@ -12,9 +12,7 @@ layout: page
 ---
 <h3>1. Establish a value proposition:</h3>
 
- **_"Customers feel free from any security threat and also provide reliable and_**
-
-**_flexible products to them”_**
+ _**"Customers feel free from any security threat and also provide reliable and flexible products to them”**_
 
 **<h3>2. Identify  ideal customer**
 
