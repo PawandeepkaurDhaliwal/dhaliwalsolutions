@@ -2,7 +2,7 @@
 title: Vision
 menu:
   main:
-    name: Blog
+    name: Vision
     weight: 2
 layout: blog
 ---
