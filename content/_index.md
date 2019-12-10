@@ -6,12 +6,9 @@ sections:
     content: >-
       We make software,apps,games,websites according to the demand of the
       customers.
-    image: ''
+    image: /images/img1-1.jpg
     section_id: About
     title: About
-    type: contentblock
-  - component: content_block.html
-    image: /images/img1-1.jpg
     type: contentblock
 menu:
   main:
