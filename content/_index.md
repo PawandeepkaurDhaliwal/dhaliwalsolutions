@@ -2,9 +2,7 @@
 title: Dhaliwal Solutions
 sections:
   - component: hero_block.html
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: ''
     section_id: hero
     type: heroblock
   - actions:
@@ -12,10 +10,8 @@ sections:
         url: /contact
     component: content_block.html
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      We make software,apps,games,websites according to the demand of the
+      customers.
     section_id: about
     title: About
     type: contentblock
@@ -27,6 +23,9 @@ sections:
     section_id: recent-posts
     title: Recent Posts
     type: postsblock
+  - component: hero_block.html
+    content: ''
+    type: heroblock
 menu:
   main:
     name: Home
