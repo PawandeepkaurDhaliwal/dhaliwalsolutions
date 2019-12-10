@@ -10,7 +10,7 @@ sections:
     content: >-
       We make software,apps,games,websites according to the demand of the
       customers.
-    image: /images/web-development-banner.jpg
+    image: /images/top-10-web-development-companies-in-australia.png
     section_id: about
     title: About
     type: contentblock
