@@ -7,12 +7,12 @@ sections:
     type: heroblock
   - actions: []
     component: content_block.html
-    content: ''
-    image: /images/img1-1.jpg
-    section_id: about
-    title: >-
+    content: >-
       We make software,apps,games,websites according to the demand of the
       customers.
+    image: /images/img1-1.jpg
+    section_id: about
+    title: About
     type: contentblock
   - actions:
       - label: Vision
