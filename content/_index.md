@@ -2,14 +2,14 @@
 title: Dhaliwal Solutions
 sections:
   - component: hero_block.html
-    content: ''
+    content: >-
+      We make software,apps,games,websites according to the demand of the
+      customers.
     section_id: hero
     type: heroblock
   - actions: []
     component: content_block.html
-    content: >-
-      We make software,apps,games,websites according to the demand of the
-      customers.
+    content: ''
     image: /images/img1-1.jpg
     section_id: about
     title: About
