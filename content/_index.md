@@ -12,8 +12,8 @@ sections:
     component: content_block.html
     content: ''
     image: /images/img1-1.jpg
-    section_id: about
-    title: About
+    section_id: ''
+    title: ''
     type: contentblock
   - actions:
       - label: Vision
