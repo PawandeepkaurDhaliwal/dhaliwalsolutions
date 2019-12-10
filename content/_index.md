@@ -15,14 +15,6 @@ sections:
     section_id: About
     title: About
     type: contentblock
-  - actions:
-      - label: Vision
-        url: /vision
-    component: posts_block.html
-    num_posts_displayed: 4
-    section_id: recent-posts
-    title: Recent Posts
-    type: postsblock
   - component: hero_block.html
     content: ''
     type: heroblock
