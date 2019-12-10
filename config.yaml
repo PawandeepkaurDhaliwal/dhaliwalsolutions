@@ -10,7 +10,7 @@ params:
     has_social: true
     profile_img: images/avatar.png
     tagline: Header Tagline
-    title: Stackbit Fresh
+    title: Dhaliwal Solutions
   layout_style: overflow
   palette: blue
 disableKinds:
