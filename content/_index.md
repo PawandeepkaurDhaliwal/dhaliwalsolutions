@@ -10,6 +10,7 @@ sections:
     content: >-
       We make software,apps,games,websites according to the demand of the
       customers.
+    image: /images/web-development-banner.jpg
     section_id: about
     title: About
     type: contentblock
