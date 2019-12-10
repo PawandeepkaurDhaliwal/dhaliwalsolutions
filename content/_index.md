@@ -7,8 +7,8 @@ sections:
       We make software,apps,games,websites according to the demand of the
       customers.
     image: /images/img1-1.jpg
-    section_id: About
-    title: About
+    section_id: Home
+    title: Dhaliwal Solutions
     type: contentblock
 menu:
   main:
