@@ -4,8 +4,8 @@ sections:
   - actions: []
     component: content_block.html
     content: >-
-      <h3>_**We make software,apps,games,websites according to the demand of the
-      customers.</h3>**_
+      _**We make software,apps,games,websites according to the demand of the
+      customers.**_
     image: /images/img1-1.jpg
     section_id: Home
     title: Dhaliwal Solutions
