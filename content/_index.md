@@ -9,10 +9,10 @@ sections:
     component: content_block.html
     content: ''
     image: /images/img1-1.jpg
-    section_id: >-
+    section_id: about
+    title: >-
       We make software,apps,games,websites according to the demand of the
       customers.
-    title: About
     type: contentblock
   - actions:
       - label: Vision
