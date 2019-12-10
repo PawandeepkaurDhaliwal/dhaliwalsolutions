@@ -1,10 +1,10 @@
 ---
 title: Finance
 subtitle: >-
-  What I need to get Started The first and foremost this is that each and every
-  person who wants to start any kind ofbusiness he/she must have the enough
-  money. I also need those stakeholders who havealready worked in another IT
-  company and have a good experience. 
+  The first and foremost this is that each and every person who wants to start
+  any kind ofbusiness he/she must have the enough money. I also need those
+  stakeholders who havealready worked in another IT company and have a good
+  experience. 
 img_path: /images/corporate-finance.jpg
 menu:
   main:
