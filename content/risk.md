@@ -10,7 +10,8 @@ menu:
     weight: 3
 layout: page
 ---
-1. **Operational risk**: My company can face operational risk because during daily tasks some problems are occur such as system failure, employee errors etc. Due to this, day to day operations are effected and some delayed can possible. Consequently, extend the budget and time period of project.
+1. ![](/images/9.jpg)
+   **Operational risk**: My company can face operational risk because during daily tasks some problems are occur such as system failure, employee errors etc. Due to this, day to day operations are effected and some delayed can possible. Consequently, extend the budget and time period of project.
 2. **Quality risk:** This is major risk for my company .Due to this risk my company can not
    achieve its targets because success of my business is based on quality of products.  We will also have to work on maintenance of software which my company will sell but if my employees will not be giving quality work then customer satisfaction will be effected. 
 3. **Security threat:** Most of the technical companies face this problem. Data leakage is major threat in all the tech companies nowadays. My company will also face a threat from cyber crime such as hackers may hack the personal information of organisation as well as customers, data stealing or create a duplicate products. Due to this my venture can loss its uniqueness of services as well as reputation in market.
