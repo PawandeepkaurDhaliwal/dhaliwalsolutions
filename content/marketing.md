@@ -23,4 +23,4 @@ to aware the people regarding the company services and publish some pamphlets,
 
 adds in newspaper. Moreover, my firm will also conduct some surveys to take the
 
-end user views
+end user views.
