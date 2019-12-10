@@ -1,6 +1,6 @@
 ---
 title: ' Github'
-img_path: /images/github.gif
+img_path: ''
 menu:
   main:
     name: ' Github'
