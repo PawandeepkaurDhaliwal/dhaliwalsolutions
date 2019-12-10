@@ -5,9 +5,7 @@ sections:
     content: ''
     section_id: hero
     type: heroblock
-  - actions:
-      - label: Contact Me
-        url: /contact
+  - actions: []
     component: content_block.html
     content: >-
       We make software,apps,games,websites according to the demand of the
