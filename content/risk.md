@@ -4,7 +4,8 @@ subtitle: >-
   In innovation period of every business they will face many types of risks and
   my business will also face few of them. There are five major risks for my
   venture:
-img_path: /images/9.jpg
+img_path: >-
+  /images/risk_assessment_analysis_security_danger_thinkstock_519706040-100750022-large.jpg
 menu:
   main:
     name: Risk
