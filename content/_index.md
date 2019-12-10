@@ -1,11 +1,6 @@
 ---
 title: Dhaliwal Solutions
 sections:
-  - component: hero_block.html
-    content: ''
-    section_id: ''
-    title: ''
-    type: heroblock
   - actions: []
     component: content_block.html
     content: >-
@@ -15,9 +10,6 @@ sections:
     section_id: About
     title: About
     type: contentblock
-  - component: hero_block.html
-    content: ''
-    type: heroblock
 menu:
   main:
     name: Home
