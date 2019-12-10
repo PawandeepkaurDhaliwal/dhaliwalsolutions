@@ -1,6 +1,6 @@
 ---
 title: Vision
-img_path: /images/1.jpg
+img_path: /images/vision-mission-values.jpg
 menu:
   main:
     name: Vision
