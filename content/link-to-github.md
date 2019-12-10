@@ -1,5 +1,5 @@
 ---
-title: Link to Github
+title: ' Github'
 menu:
   main:
     name: Link to Github
