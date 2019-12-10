@@ -3,7 +3,7 @@ title: Strategies
 subtitle: >-
   The main strategy of my company will solve the customer’s problem on the
   priority basis and provide them reliable services.
-img_path: /images/tech-help_48235965_xxl.jpg
+img_path: /images/strategy.jpg
 menu:
   main:
     name: Strategies
