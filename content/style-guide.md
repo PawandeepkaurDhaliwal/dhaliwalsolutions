@@ -1,8 +1,8 @@
 ---
 title: Strategies
 subtitle: >-
-  The strategy of my company will solve the customer’s problem on the priority
-  basis and provide them reliable services.
+  The main strategy of my company will solve the customer’s problem on the
+  priority basis and provide them reliable services.
 img_path: /images/tech-help_48235965_xxl.jpg
 menu:
   main:
