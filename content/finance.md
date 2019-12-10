@@ -2,7 +2,7 @@
 title: Finance
 subtitle: >-
   The first and foremost this is that each and every person who wants to start
-  any kind ofbusiness he/she must have the enough money. I also need those
+  any kind of business he/she must have the enough money. I also need those
   stakeholders who havealready worked in another IT company and have a good
   experience. 
 img_path: /images/corporate-finance.jpg
@@ -12,7 +12,7 @@ menu:
     weight: 5
 layout: page
 ---
-
+<h3>What I need to get Started</h3>
 
 Items Cost monthly Cost by Year
 
