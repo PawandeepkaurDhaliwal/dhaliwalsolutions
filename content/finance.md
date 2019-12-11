@@ -14,7 +14,7 @@ layout: page
 ---
 <h3>What I need to get Started</h3>
 
-Items Cost monthly Cost by Year
+ Items    Cost monthly  Cost by Year
 
 My Salary:  $7,000  $84,000.00
 
@@ -26,8 +26,8 @@ Equipment Cost: $60,000  $72,000.00
 
 Licence:  $25,000   $25,000.00
 
-Internet Connection: $1,000 $12,000.00
+Internet Connection: $1,000  $12,000.00
 
-Maintenance: $10,000 $120,000.00
+Maintenance: $10,000   $120,000.00
 
 Total: $793,000.00
